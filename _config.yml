@@ -2,5 +2,6 @@
 remote_theme: riggraz/no-style-please
 title: trashbin
 description: "null"
+timezone: Asia/Singapore
 plugins:
   - jekyll-remote-theme
