@@ -1,0 +1,6 @@
+# theme: no-style-please
+remote_theme: riggraz/no-style-please
+title: trashbin
+description: "null"
+plugins:
+  - jekyll-remote-theme
