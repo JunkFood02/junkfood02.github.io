@@ -1,0 +1,21 @@
+entries:
+  - title: info
+    entries:
+      - title: junkfood
+      - title: github profile
+        url: https://github.com/junkfood02
+
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: false
+      # show_more_text: See archive...
+      # show_more_url: archive.html
+
+  # - title: posts by category
+  #   post_list:
+  #     category: "sketch"
+  #     show_more: false
+
+  - title: rss
+    url: feed.xml
