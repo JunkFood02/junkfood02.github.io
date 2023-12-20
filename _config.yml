@@ -5,4 +5,5 @@ description: "null"
 timezone: Asia/Singapore
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
 permalink: /:year/:month/:day/:title:output_ext
