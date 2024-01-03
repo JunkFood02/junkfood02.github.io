@@ -2,13 +2,15 @@ entries:
   - title: info
     entries:
       - title: junkfood
-      - title: github profile
+      - title: github
         url: https://github.com/junkfood02
-
-  - title: all posts
+      - title: twitter
+        url: https://twitter.com/midofnowhere02
+  - title: sketch
     post_list:
-      limit: 5
-      show_more: false
+    - categories: sketch 
+      # limit: no
+      # show_more: true
       # show_more_text: See archive...
       # show_more_url: archive.html
 
