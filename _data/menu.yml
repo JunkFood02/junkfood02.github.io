@@ -8,16 +8,13 @@ entries:
         url: https://twitter.com/midofnowhere02
   - title: sketch
     post_list:
-    - categories: sketch 
-      # limit: no
-      # show_more: true
-      # show_more_text: See archive...
-      # show_more_url: archive.html
+      categories: sketch 
+      limit: 1
 
   # - title: posts by category
   #   post_list:
   #     category: "sketch"
   #     show_more: false
 
-  - title: rss
+  - title: feed
     url: feed.xml
